@@ -25,7 +25,7 @@ function arabToRoman(arabNum) {
         return result;
         
 }
-alert(arabToRoman(111));
+alert(arabToRoman(prompt()));
 
 
 function romain(str) { // easy
